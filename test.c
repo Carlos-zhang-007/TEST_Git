@@ -14,4 +14,10 @@ test_ZH1
 test_ZH2
 test_ZH3
 
+<<<<<<< HEAD
 GIT-MAS1
+=======
+GIT-dev1
+GIT-dev2
+GIT-dev3
+>>>>>>> dev
