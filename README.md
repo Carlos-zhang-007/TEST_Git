@@ -4,7 +4,7 @@
 
 1. creat PortInterface
 
-![image-20210715165948350](\pic\image-20210715165948350.png)
+![image-20210715165948350](https://github.com/Carlos-zhang-007/TEST_Git/blob/test_md/pic/image-20210715165948350.png)
 
 2. creat SwComponentTypes
 
