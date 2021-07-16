@@ -4,7 +4,9 @@
 
 1. creat PortInterface
 
-![image-20210715165948350](https://github.com/Carlos-zhang-007/TEST_Git/blob/test_md/pic/image-20210715165948350.png)
+![image-20210715165948350](https://picture-for-markdown.oss-cn-beijing.aliyuncs.com/image-20210715165948350.png?Expires=1626434585&OSSAccessKeyId=TMP.3KfzprKXFQbQp4bsAw36kutEfQxSaJ9toPVwbBLZKjfFDHGGNBgFCPSRgyH9tP6oqsLhaKqi7pN9UPSVQjqc4QGnK4FkjS&Signature=DPxrXQqUEhm%2FDlUEWNUGSDfxHT8%3D)
+
+
 
 2. creat SwComponentTypes
 
